@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ <div>
+  <a href="https://github.com/thiagorizzo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagorizzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorizzo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <!--
 **thiagorizzo/thiagorizzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
